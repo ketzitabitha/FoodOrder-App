@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "283380395870",
+    "project_id": "nalam-foods-385f3",
+    "storage_bucket": "nalam-foods-385f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283380395870:android:d8cb138139781c739729cf",
+        "android_client_info": {
+          "package_name": "com.muthu.nalam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283380395870-2hu45kh8dcocms6g5o3of8vorud1jgkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muthu.nalam",
+            "certificate_hash": "fa9567b4d2bfc29842d86d4667be03a8a35afda3"
+          }
+        },
+        {
+          "client_id": "283380395870-84cjht2ku47usdl368mg0f5q3d3r18g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBouB5x_VysBejQhYboPr4er6kKaR1VrGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283380395870-84cjht2ku47usdl368mg0f5q3d3r18g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
